@@ -1,4 +1,4 @@
-const playpauseAudio = document.getElementById("play-pause");
+/*const playpauseAudio = document.getElementById("play-pause");
 const proximoAudio = document.getElementById("next");
 const anteriorAudio = document.getElementById("return");
 const audio = document.getElementById("audio-capitulo");
