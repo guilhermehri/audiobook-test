@@ -45,6 +45,7 @@ function botaoProximoAudio(){
     tocarAudio();
 }
 
+
 proximoAudio.addEventListener("click", botaoProximoAudio);
 playpauseAudio.addEventListener("click", botaoTocarOuPausarAudio);
 

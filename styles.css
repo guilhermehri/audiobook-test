@@ -8,42 +8,35 @@
     color: #d6d6ea;
     
 }
-
 .container-main{
     display: flex;
     align-items: center;
     flex-direction: column;
 }
-
 button{
     color: inherit;
     background-color: inherit;
     border: none;
     cursor: pointer;
 }
-
 #capitulo{
     font-size: 2rem;
     margin-top: 1rem;
 }
-
 #autor{
     font-size: 1.5rem;
     margin-top: 0.3rem;
     margin-bottom: 1rem;
     
 }
-
 .container-buttons{
     width: 100%;
     display: flex;
     justify-content: space-around;
 }
-
 .container-buttons #next, #return{
     font-size: 3rem;
 }
-
 .container-buttons #play-pause{
     font-size: 4rem;
 }
